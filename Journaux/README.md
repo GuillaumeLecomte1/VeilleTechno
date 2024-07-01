@@ -10,15 +10,15 @@ Utiliser efficacement les journaux en ligne pour rester informé des actualités
     - Ouvrez votre navigateur web.
     - Entrez l'URL du journal en ligne.
     - Appuyez sur Entrée pour accéder au site.
-
-      ![image](/Journaux/Images/recherche.png)
+    
+ ![image](/Journaux/Images/recherche.png)
 
 # Navigation sur le Site :
     - Explorez les articles.
     - Utilisez la barre de recherche pour trouver des articles spécifiques.
     - Parcourez les catégories pour affiner vos intérêts.
 
-      ![image](/Journaux/Images/article.png)
+![image](/Journaux/Images/article.png)
 
 # Sauvegarde d'Articles :
     - Créez un compte (si nécessaire) pour sauvegarder vos articles préférés.
