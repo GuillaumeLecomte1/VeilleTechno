@@ -1,6 +1,12 @@
-# VeilleTechno
-Salut kévin :p
+# Veille Informationnelle
 
-C'est la team des petits loulou foufou
+Guillaume Lecomte - Jules Gaborit 
 
-Il faut ouvrir les Dossiers pour voir les différents markdown demandé pour chaque Sujet de veille technologique.
+## Sujet : 
+### DailyDev
+### Flipboard
+### Journaux
+### LinkedIn
+
+# Bonne correction
+Nous sommes évidemment disponibles si tu as des demandes concernant le fruit de notre labeur.
