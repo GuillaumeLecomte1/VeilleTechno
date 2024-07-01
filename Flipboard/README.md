@@ -1,6 +1,7 @@
 
 
 # Guide de Veille Technologique avec Flipboard
+![image](/Flipboard/Images/Untitled.png)
 
 ![Untitled](Veille%20technologique%20ac987ed7bdd244e9a7de3ccc887f0c80/Untitled.png)
 
