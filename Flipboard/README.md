@@ -97,8 +97,8 @@ Intégrez Flipboard dans votre routine quotidienne pour une veille technologique
 
 En suivant ces étapes, vous pourrez efficacement utiliser Flipboard pour effectuer une veille technologique sur un sujet précis. Restez actif, engagez-vous avec la communauté, et continuez à apprendre et à partager vos connaissances.
 
-![https://cdn.flipboard.com/community-end.jpg](https://cdn.flipboard.com/community-end.jpg)
-![Images/Untitle.png]
+![image](/Flipboard/Images/Untitled.png)
+
 ## Récapitulatif des Actions Clés
 
 1. Créez et optimisez votre compte Flipboard.
