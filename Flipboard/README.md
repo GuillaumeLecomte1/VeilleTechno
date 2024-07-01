@@ -33,15 +33,15 @@ Flipboard permet de suivre des magazines et des sources spécifiques pour accéd
 
   ![image](/Flipboard/Images/chercher.png)
 
-### 3. **Créer Vos Propres Magazines**
+<!-- ### 3. **Créer Vos Propres Magazines**
 
 Créer vos propres magazines vous permet de regrouper et organiser les articles que vous trouvez intéressants.
 
 - **Créer un Magazine :** Allez dans votre profil et cliquez sur "Create a Magazine". Donnez un titre à votre magazine, par exemple "Veille Technologique".
-- **Ajouter du Contenu :** Ajoutez des articles, des vidéos, et d'autres contenus relatifs au sujet défini à votre magazine en cliquant sur le bouton "+" sur les articles.
+- **Ajouter du Contenu :** Ajoutez des articles, des vidéos, et d'autres contenus relatifs au sujet défini à votre magazine en cliquant sur le bouton "+" sur les articles. -->
 
 
-### 4. **Utiliser les Catégories et les Tags**
+### 3. **Utiliser les Catégories et les Tags**
 
 Les catégories et les tags sont des outils puissants pour affiner votre recherche et suivre les sujets spécifiques.
 
@@ -50,25 +50,23 @@ Les catégories et les tags sont des outils puissants pour affiner votre recherc
 - **Recherche par Catégorie :** Parcourez les catégories comme "Technology", "Programming", et d'autres pertinentes pour trouver du contenu lié à votre sujet.
 - **Utiliser des Tags :** Recherchez et suivez des tags spécifiques à votre sujet pour filtrer le contenu.
 
-### 5. **Configurer des Alertes et Notifications**
+### 4. **Configurer des Alertes et Notifications**
 
 Pour ne manquer aucune information importante, configurez des alertes et des notifications.
 
-![https://cdn.flipboard.com/notifications.jpg](https://cdn.flipboard.com/notifications.jpg)
+  ![image](/Flipboard/Images/notification.png)
 
 - **Configurer des Notifications :** Activez les notifications pour être alerté des nouveaux articles ajoutés aux magazines et aux tags que vous suivez.
 - **Utiliser les Alertes Personnalisées :** Configurez des alertes personnalisées pour recevoir des mises à jour sur les sujets spécifiques.
 
-![https://cdn.flipboard.com/alerts.jpg](https://cdn.flipboard.com/alerts.jpg)
-
-### 6. **Interagir avec la Communauté Flipboard**
+<!-- ### 5. **Interagir avec la Communauté Flipboard**
 
 Engagez-vous avec la communauté Flipboard pour enrichir votre veille technologique.
 
 - **Commenter et Partager :** Laissez des commentaires sur les articles intéressants et partagez-les avec votre réseau.
-- **Participer aux Discussions :** Engagez-vous dans les discussions sur les articles pour partager vos idées et apprendre des autres utilisateurs.
+- **Participer aux Discussions :** Engagez-vous dans les discussions sur les articles pour partager vos idées et apprendre des autres utilisateurs. -->
 
-### 7. **Intégrer Flipboard à Votre Routine Quotidienne**
+### 5. **Intégrer Flipboard à Votre Routine Quotidienne**
 
 Intégrez Flipboard dans votre routine quotidienne pour une veille technologique efficace.
 
@@ -85,13 +83,9 @@ En suivant ces étapes, vous pourrez efficacement utiliser Flipboard pour effect
 
 1. Créez et optimisez votre compte Flipboard.
 2. Suivez des magazines et des sources pertinentes.
-3. Créez vos propres magazines.
-4. Utilisez les catégories et les tags.
-5. Configurez des alertes et des notifications.
-6. Interagissez avec la communauté Flipboard.
-7. Intégrez Flipboard à votre routine quotidienne.
-
-![https://cdn.flipboard.com/recap.jpg](https://cdn.flipboard.com/recap.jpg)
+3. Utilisez les catégories et les tags.
+4. Configurez des alertes et des notifications.
+5. Intégrez Flipboard à votre routine quotidienne.
 
 En intégrant ces pratiques dans votre routine, vous serez toujours à jour sur les dernières évolutions et tendances de votre sujet d'intérêt sur Flipboard.
 

@@ -5,6 +5,8 @@
 
 LinkedIn est une plateforme puissante pour effectuer de la veille technologique, notamment sur des sujets spécifiques comme Laravel. Ce guide vous expliquera comment utiliser LinkedIn pour rester à jour avec les dernières informations, tendances et innovations liées à Laravel.
 
+  ![image](/Linkedin/Images/LinkedIn_icon_circle.svg.png)
+
 ## Étapes pour la Veille Technologique sur Laravel
 
 ### 1. **Créer et Optimiser votre Profil LinkedIn**
@@ -31,13 +33,13 @@ Suivre des experts dans le domaine de Laravel peut vous fournir des informations
 - **Suivre des Influencers :** Suivez des figures influentes et des contributeurs majeurs dans la communauté Laravel.
 - **Interagir avec le Contenu :** Aimez, commentez et partagez le contenu publié par ces experts pour rester engagé et visible.
 
-### 4. **Utiliser LinkedIn Pulse et les Articles**
+<!-- ### 4. **Utiliser LinkedIn Pulse et les Articles**
 
 LinkedIn Pulse est une fonctionnalité où les utilisateurs peuvent publier des articles.
 
 - **Recherche d’Articles :** Recherchez des articles en utilisant des mots-clés spécifiques comme "Laravel Updates" ou "Laravel Tutorials".
 - **Suivre des Auteurs :** Suivez les auteurs qui publient régulièrement des articles sur Laravel.
-- **Publier vos Propres Articles :** Partagez vos propres connaissances et expériences avec Laravel pour contribuer à la communauté.
+- **Publier vos Propres Articles :** Partagez vos propres connaissances et expériences avec Laravel pour contribuer à la communauté. -->
 
 ### 5. **Utiliser les Hashtags Pertinents**
 
@@ -69,9 +71,8 @@ En suivant ces étapes, vous pourrez efficacement utiliser LinkedIn pour effectu
 1. Optimisez votre profil LinkedIn.
 2. Rejoignez des groupes liés à Laravel.
 3. Suivez des experts et des influenceurs.
-4. Utilisez LinkedIn Pulse et publiez vos articles.
-5. Suivez et utilisez des hashtags pertinents.
-6. Configurez des alertes et des notifications.
-7. Participez à des événements LinkedIn.
+4. Suivez et utilisez des hashtags pertinents.
+5. Configurez des alertes et des notifications.
+6. Participez à des événements LinkedIn.
 
 En intégrant ces pratiques dans votre routine, vous serez toujours à jour sur les dernières évolutions et tendances de Laravel sur LinkedIn.
