@@ -1,5 +1,3 @@
-
-
 # Guide de Veille Technologique avec Flipboard
 ![image](/Flipboard/Images/Untitled.png)
 

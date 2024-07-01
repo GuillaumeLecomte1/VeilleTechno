@@ -1,6 +1,4 @@
-# Veille technologique
-
-## Guide d'Utilisation de Daily Dev pour la Veille Informationnelle
+# Guide d'Utilisation de Daily Dev pour la Veille Informationnelle
 
 Voici un guide pour effectuer de la veille informationnelle à l'aide du site Daily Dev :
 
