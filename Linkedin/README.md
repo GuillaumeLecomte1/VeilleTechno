@@ -14,6 +14,8 @@ LinkedIn est une plateforme puissante pour effectuer de la veille technologique,
 Pour tirer le meilleur parti de LinkedIn, il est essentiel d'avoir un profil bien optimisé.
 
 - **Photo de Profil Professionnelle :** Utilisez une photo de profil claire et professionnelle.
+  ![image](/Linkedin/Images/login.png)
+
 - **Résumé et Compétences :** Ajoutez un résumé détaillé et mentionnez vos compétences liées à Laravel et au développement web.
 - **Expérience Professionnelle :** Décrivez vos expériences professionnelles pertinentes.
 
@@ -24,6 +26,8 @@ Les groupes LinkedIn sont une excellente ressource pour accéder à des discussi
 - **Recherche de Groupes :** Utilisez la barre de recherche en haut de la page LinkedIn pour rechercher des groupes liés à Laravel.
 - **Rejoindre des Groupes :** Rejoignez des groupes actifs comme "Laravel Developers" ou "PHP and Laravel Enthusiasts".
 - **Participer aux Discussions :** Participez régulièrement aux discussions, posez des questions et partagez vos connaissances.
+  ![image](/Linkedin/Images/groupe.png)
+
 
 ### 3. **Suivre des Experts et des Influencers**
 
@@ -32,6 +36,7 @@ Suivre des experts dans le domaine de Laravel peut vous fournir des informations
 - **Recherche d’Experts :** Utilisez des mots-clés comme "Laravel Expert" ou "Laravel Developer" pour trouver des experts.
 - **Suivre des Influencers :** Suivez des figures influentes et des contributeurs majeurs dans la communauté Laravel.
 - **Interagir avec le Contenu :** Aimez, commentez et partagez le contenu publié par ces experts pour rester engagé et visible.
+  ![image](/Linkedin/Images/expert.png)
 
 <!-- ### 4. **Utiliser LinkedIn Pulse et les Articles**
 
@@ -41,21 +46,25 @@ LinkedIn Pulse est une fonctionnalité où les utilisateurs peuvent publier des 
 - **Suivre des Auteurs :** Suivez les auteurs qui publient régulièrement des articles sur Laravel.
 - **Publier vos Propres Articles :** Partagez vos propres connaissances et expériences avec Laravel pour contribuer à la communauté. -->
 
-### 5. **Utiliser les Hashtags Pertinents**
+### 4. **Utiliser les Hashtags Pertinents**
 
 Les hashtags permettent de suivre des sujets spécifiques et d’organiser les contenus.
 
 - **Suivre des Hashtags :** Suivez des hashtags comme #Laravel, #PHP, #WebDevelopment.
 - **Utiliser des Hashtags dans vos Publications :** Ajoutez des hashtags pertinents lorsque vous publiez du contenu sur Laravel pour atteindre une audience plus large.
+  ![image](/Linkedin/Images/hashtag.png)
 
-### 6. **Créer des Alertes et des Notifications**
+
+### 5. **Créer des Alertes et des Notifications**
 
 Pour ne manquer aucune mise à jour importante, configurez des alertes et des notifications.
 
 - **Configurer des Notifications :** Activez les notifications pour les groupes, les pages, et les personnes que vous suivez.
 - **Utiliser LinkedIn Notifications :** Recevez des notifications pour les nouveaux articles, discussions et mises à jour sur Laravel.
+ ![image](/Linkedin/Images/alerte.png)
 
-### 7. **Participer à des Événements LinkedIn**
+
+### 6. **Participer à des Événements LinkedIn**
 
 LinkedIn propose des événements en ligne et des webinaires qui peuvent être très utiles.
 
